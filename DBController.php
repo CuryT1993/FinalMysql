@@ -3,11 +3,11 @@
 class DBController
 {
 
-    private $host = "localhost";
+    private $host = "aplicacionmysql-mysqldbserver.mysql.database.azure.com";
 
-    private $user = "root";
+    private $user = "mysqldbuser@aplicacionmysql-mysqldbserver";
 
-    private $password = "2012116664";
+    private $password = "Atahualpacury1993";
 
     private $database = "shopping_cart";
 
